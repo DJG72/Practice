@@ -1,0 +1,14 @@
+C:\Users\ghosh\Downloads\Congizant_Digital_Nurtur\week1\bin\Debug\net10.0\week1.exe
+C:\Users\ghosh\Downloads\Congizant_Digital_Nurtur\week1\bin\Debug\net10.0\week1.deps.json
+C:\Users\ghosh\Downloads\Congizant_Digital_Nurtur\week1\bin\Debug\net10.0\week1.runtimeconfig.json
+C:\Users\ghosh\Downloads\Congizant_Digital_Nurtur\week1\bin\Debug\net10.0\week1.dll
+C:\Users\ghosh\Downloads\Congizant_Digital_Nurtur\week1\bin\Debug\net10.0\week1.pdb
+C:\Users\ghosh\Downloads\Congizant_Digital_Nurtur\week1\obj\Debug\net10.0\week1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghosh\Downloads\Congizant_Digital_Nurtur\week1\obj\Debug\net10.0\week1.AssemblyInfoInputs.cache
+C:\Users\ghosh\Downloads\Congizant_Digital_Nurtur\week1\obj\Debug\net10.0\week1.AssemblyInfo.cs
+C:\Users\ghosh\Downloads\Congizant_Digital_Nurtur\week1\obj\Debug\net10.0\week1.csproj.CoreCompileInputs.cache
+C:\Users\ghosh\Downloads\Congizant_Digital_Nurtur\week1\obj\Debug\net10.0\week1.dll
+C:\Users\ghosh\Downloads\Congizant_Digital_Nurtur\week1\obj\Debug\net10.0\refint\week1.dll
+C:\Users\ghosh\Downloads\Congizant_Digital_Nurtur\week1\obj\Debug\net10.0\week1.pdb
+C:\Users\ghosh\Downloads\Congizant_Digital_Nurtur\week1\obj\Debug\net10.0\week1.genruntimeconfig.cache
+C:\Users\ghosh\Downloads\Congizant_Digital_Nurtur\week1\obj\Debug\net10.0\ref\week1.dll
