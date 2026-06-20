@@ -1,0 +1,15 @@
+D:\Desktop\Cognizant-Digital-Nurture-5.0\EngineeringConcepts\DesignPatternsandPrinciples\4.AdapterPattern\Code\bin\Debug\net10.0\Code.exe
+D:\Desktop\Cognizant-Digital-Nurture-5.0\EngineeringConcepts\DesignPatternsandPrinciples\4.AdapterPattern\Code\bin\Debug\net10.0\Code.deps.json
+D:\Desktop\Cognizant-Digital-Nurture-5.0\EngineeringConcepts\DesignPatternsandPrinciples\4.AdapterPattern\Code\bin\Debug\net10.0\Code.runtimeconfig.json
+D:\Desktop\Cognizant-Digital-Nurture-5.0\EngineeringConcepts\DesignPatternsandPrinciples\4.AdapterPattern\Code\bin\Debug\net10.0\Code.dll
+D:\Desktop\Cognizant-Digital-Nurture-5.0\EngineeringConcepts\DesignPatternsandPrinciples\4.AdapterPattern\Code\bin\Debug\net10.0\Code.pdb
+D:\Desktop\Cognizant-Digital-Nurture-5.0\EngineeringConcepts\DesignPatternsandPrinciples\4.AdapterPattern\Code\obj\Debug\net10.0\Code.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Cognizant-Digital-Nurture-5.0\EngineeringConcepts\DesignPatternsandPrinciples\4.AdapterPattern\Code\obj\Debug\net10.0\Code.AssemblyInfoInputs.cache
+D:\Desktop\Cognizant-Digital-Nurture-5.0\EngineeringConcepts\DesignPatternsandPrinciples\4.AdapterPattern\Code\obj\Debug\net10.0\Code.AssemblyInfo.cs
+D:\Desktop\Cognizant-Digital-Nurture-5.0\EngineeringConcepts\DesignPatternsandPrinciples\4.AdapterPattern\Code\obj\Debug\net10.0\Code.csproj.CoreCompileInputs.cache
+D:\Desktop\Cognizant-Digital-Nurture-5.0\EngineeringConcepts\DesignPatternsandPrinciples\4.AdapterPattern\Code\obj\Debug\net10.0\Code.sourcelink.json
+D:\Desktop\Cognizant-Digital-Nurture-5.0\EngineeringConcepts\DesignPatternsandPrinciples\4.AdapterPattern\Code\obj\Debug\net10.0\Code.dll
+D:\Desktop\Cognizant-Digital-Nurture-5.0\EngineeringConcepts\DesignPatternsandPrinciples\4.AdapterPattern\Code\obj\Debug\net10.0\refint\Code.dll
+D:\Desktop\Cognizant-Digital-Nurture-5.0\EngineeringConcepts\DesignPatternsandPrinciples\4.AdapterPattern\Code\obj\Debug\net10.0\Code.pdb
+D:\Desktop\Cognizant-Digital-Nurture-5.0\EngineeringConcepts\DesignPatternsandPrinciples\4.AdapterPattern\Code\obj\Debug\net10.0\Code.genruntimeconfig.cache
+D:\Desktop\Cognizant-Digital-Nurture-5.0\EngineeringConcepts\DesignPatternsandPrinciples\4.AdapterPattern\Code\obj\Debug\net10.0\ref\Code.dll
