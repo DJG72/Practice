@@ -1,0 +1,14 @@
+D:\Cognizant\week_2\bin\Debug\net10.0\week2.exe
+D:\Cognizant\week_2\bin\Debug\net10.0\week2.deps.json
+D:\Cognizant\week_2\bin\Debug\net10.0\week2.runtimeconfig.json
+D:\Cognizant\week_2\bin\Debug\net10.0\week2.dll
+D:\Cognizant\week_2\bin\Debug\net10.0\week2.pdb
+D:\Cognizant\week_2\obj\Debug\net10.0\week2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cognizant\week_2\obj\Debug\net10.0\week2.AssemblyInfoInputs.cache
+D:\Cognizant\week_2\obj\Debug\net10.0\week2.AssemblyInfo.cs
+D:\Cognizant\week_2\obj\Debug\net10.0\week2.csproj.CoreCompileInputs.cache
+D:\Cognizant\week_2\obj\Debug\net10.0\week2.dll
+D:\Cognizant\week_2\obj\Debug\net10.0\refint\week2.dll
+D:\Cognizant\week_2\obj\Debug\net10.0\week2.pdb
+D:\Cognizant\week_2\obj\Debug\net10.0\week2.genruntimeconfig.cache
+D:\Cognizant\week_2\obj\Debug\net10.0\ref\week2.dll
